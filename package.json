@@ -1,0 +1,20 @@
+{
+  "name": "sinhair-shampoo",
+  "main": "./lib/sinhair-shampoo",
+  "version": "0.0.0",
+  "description": "SINHAIR - SHAMPO PENGHITAM RAMBUT MADE IN JEPANG",
+  "keywords": [
+    "sinhair shampoo",
+    "shampoo sinhair"
+  ],
+  "activationCommands": {
+    "atom-workspace": "sinhair-shampoo:toggle"
+  },
+  "repository": "https://github.com/sinhair-shampoo/sinhair-shampoo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sinhair-shampoo",
+        "command": "sinhair-shampoo:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sinhair-shampoo",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sinhair-shampoo:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
