@@ -1,7 +1,7 @@
 {
   "name": "sinhair-shampoo",
   "main": "./lib/sinhair-shampoo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "SINHAIR - SHAMPO PENGHITAM RAMBUT MADE IN JEPANG",
   "keywords": [
     "sinhair shampoo",
@@ -15,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
